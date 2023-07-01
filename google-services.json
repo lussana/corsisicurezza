@@ -1,42 +1,53 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "495427908411",
+    "firebase_url": "https://corsi-bertuzzi.firebaseio.com",
+    "project_id": "corsi-bertuzzi",
+    "storage_bucket": "corsi-bertuzzi.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111111111111:android:1111111111111111",
+        "mobilesdk_app_id": "1:495427908411:android:cbe99147ee746109bb7d1e",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "it.bertuzziraffaella.corsi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "495427908411-pi6u3or5pjqj21ajud0qgn3gp6rh0ipp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.bertuzziraffaella.corsi",
+            "certificate_hash": "89bb2876d424e6940e3b884af550784c2e152282"
+          }
+        },
+        {
+          "client_id": "495427908411-iv55iesssg9lfadljeendbb8a5ddmepu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
-        },
-        {
-          "current_key": ""
+          "current_key": "AIzaSyB0RtyyWnB1iGdC9RlAIMCmWDtvzrbIlvo"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495427908411-iv55iesssg9lfadljeendbb8a5ddmepu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495427908411-3dp1q2tmp5mlup0tq49qidlgk2126nts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "it.bertuzziraffaella.corsi",
+                "app_store_id": "1505309199"
+              }
+            }
+          ]
         }
       }
     }
